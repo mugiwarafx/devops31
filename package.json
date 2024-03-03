@@ -1,0 +1,12 @@
+{
+    "name": "express-heroku-app",
+    "version": "1.0.0",
+    "description": "A simple Express app for Heroku",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
